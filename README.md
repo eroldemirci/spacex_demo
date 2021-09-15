@@ -1,6 +1,6 @@
 # spacex_lastmission
 
-A new Flutter project.
+Şu anda görev yapmakta olan SpaceX firmasının en son görevi hakkında bilgi veren bir demo uygulaması
 
 ## Getting Started
 
